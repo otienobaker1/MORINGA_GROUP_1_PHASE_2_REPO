@@ -45,7 +45,7 @@ A business problem is the need for stakeholders to provide advice to homeowners 
 
 This project uses the King County House Sales dataset, which can be found in  `kc_house_data.csv` in the data folder in this project's GitHub repository. The description of the column names can be found in `column_names.md` in the same folder. 
 
-Access: https://github.com/otienobaker1/MORINGA-PHASE_2-GROUP-1-PROJECT
+Access:  https://github.com/otienobaker1/MORINGA_GROUP_1_PHASE_2_REPO/tree/main
 
 #### Deliverables
 There are three deliverables for this project:
@@ -53,7 +53,7 @@ There are three deliverables for this project:
 1. A **non-technical presentation** - [Presentation](<DSF_PT5 GROUP  I PHASE II PROJECT_FINAL.pdf>) 
 - Can also be accessed from: https://www.canva.com/design/DAF33WZlnY8/b7OXuO_Rh-aKHLQh0S4NFg/edit
 2. A **Jupyter Notebook**- [Group1Phase2ProjectNotebook](Group1Notebook.ipynb)
-3. A **GitHub repository** - https://github.com/otienobaker1/MORINGA-PHASE_2-GROUP-1-PROJECT
+3. A **GitHub repository** -https://github.com/otienobaker1/MORINGA_GROUP_1_PHASE_2_REPO/tree/main
 
 
 #### Data Description 
